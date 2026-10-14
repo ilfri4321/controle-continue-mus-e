@@ -4,14 +4,11 @@
     --page-text: #ffffff;
     --accent: #bc743f;
 }
-<<<<<<< HEAD
+
 * { 
     box-sizing: border-box; 
 }
 
-=======
-* { box-sizing: border-box; }
->>>>>>> featuring/style
 body { 
     margin: 0; 
     font-family: Arial, sans-serif; 
@@ -42,11 +39,7 @@ h1 {
 
 .card { 
     padding: 24px; 
-<<<<<<< HEAD
     margin: 20px 0; 
-=======
-    margin: 20px 0;
->>>>>>> featuring/style
     border: 1px solid var(--accent); 
     border-radius: 12px; 
 }
@@ -57,11 +50,7 @@ button {
     background: #bc743f; 
     color: #17223b; 
     border: 0; 
-<<<<<<< HEAD
-    order-radius: 8px; 
-=======
     border-radius: 8px; 
->>>>>>> featuring/style
     cursor: pointer; 
     font-size: 1rem; 
 }
@@ -80,7 +69,3 @@ button:focus-visible {
 footer { 
     font-size: 0.9rem; 
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> featuring/style
